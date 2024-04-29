@@ -1,29 +1,6 @@
-Hier ist ein klassisches Rezept für Tiramisu:
 
-Zutaten:
-500 g Mascarpone
-200 g Löffelbiskuits (Savoiardi)
-4 Eier (Größe M)
-100 g Zucker
-2 Esslöffel Kakaopulver (zum Bestäuben)
-300 ml frisch gebrühter, starker Kaffee (abgekühlt)
-4 Esslöffel Amaretto oder Marsala (optional)
-Zubereitung:
-Eier trennen: Die Eier trennen und Eigelb sowie Eiweiß in separate Schüsseln geben.
-Eigelb und Zucker schlagen: Das Eigelb mit dem Zucker in einer Schüssel schaumig schlagen, bis eine cremige, helle Masse entsteht.
-Mascarpone einrühren: Den Mascarpone-Käse unter die Eigelb-Zucker-Masse heben, bis eine gleichmäßige Creme entsteht.
-Eiweiß steif schlagen: In einer anderen Schüssel das Eiweiß steif schlagen. Die steif geschlagenen Eiweiße vorsichtig unter die Mascarpone-Eigelb-Mischung heben, bis alles gut vermischt ist.
-Kaffee und Alkohol: Den abgekühlten Kaffee mit dem optionalen Amaretto oder Marsala in einer flachen Schüssel mischen.
-Löffelbiskuits tränken: Die Löffelbiskuits kurz in den Kaffee-Alkohol-Mix tauchen (aber nicht zu lange, damit sie nicht zu weich werden).
-Schichten: In einer rechteckigen Form (ca. 20x30 cm) oder mehreren kleineren Formen die getränkten Löffelbiskuits als erste Schicht auslegen. Dann eine Schicht der Mascarpone-Creme darüber verteilen. Dies wiederholen, bis alle Zutaten aufgebraucht sind, mit der Creme abschließen.
-Kühlen: Das Tiramisu mindestens 4 Stunden, am besten jedoch über Nacht, im Kühlschrank kühlen lassen.
-Servieren: Vor dem Servieren das Tiramisu mit Kakaopulver bestäuben.
-Genieße dein hausgemachtes Tiramisu!
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 
