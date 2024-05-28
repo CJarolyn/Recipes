@@ -1,0 +1,16 @@
+  260  git status
+  261  git commit -m "Add Tiramisu Recipe"
+  262  git log
+  263  git add recipes.txt 
+  264  git status
+  265  git commit -m "Add Headline"
+  266  git log
+  267  git diff cd7024a6647dda8e99bd09fc4bc9af9356c012b7 7bf93e2f14053e12497e0fdbb3ac60d5d19df05a
+  268  git diff 7bf93e2f14053e12497e0fdbb3ac60d5d19df05a cd7024a6647dda8e99bd09fc4bc9af9356c012b7
+  269  git add recipes.txt
+  270  git commit - "Add Headline new trial"
+  271  git commit -m "Add Headline new trial"
+  272  git status
+  273  git log
+  274  git diff bc0e1bd8c8fb1654e50a439a1285a4e16364ed68 7bf93e2f14053e12497e0fdbb3ac60d5d19df05a
+  275  history > history.txt
