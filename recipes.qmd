@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-::: panel-tabset
+::: {.panel-tabset style="color: gray"}
 ## Hello and welcome!
 
 ![](images/Bildschirmfoto%202024-05-13%20um%2019.49.15.png)
@@ -67,65 +67,31 @@ Place the rolls in a greased baking dish, leaving a little space between each ro
 
 In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth. Adjust the consistency by adding more milk if needed. Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!
 
-## Cinnamon Rolls
+## Tiramisu
+
+![](images/Bildschirmfoto%202024-05-28%20um%2010.23.00.png)
+
+### Ingredients:
+
+500 g (17.6 oz) Mascarpone cheese 6 eggs (separated into yolks and whites) 200 g (7 oz) sugar 1 pinch of salt 300 g (10.6 oz) ladyfingers (savoiardi biscuits) 300 ml (10 fl oz) strong coffee (cooled) 4 tablespoons Amaretto or Marsala (optional) Cocoa powder for dusting Dark chocolate shavings (optional)
+
+### Instructions:
+
+#### Preparation:
+
+Brew the strong coffee and let it cool. Mix the coffee with the Amaretto or Marsala, if using. Egg mixture:
+
+Separate the eggs. Beat the egg yolks with 100 g (3.5 oz) of sugar until the mixture is pale and creamy. In a separate bowl, beat the egg whites with a pinch of salt until stiff peaks form. Gradually add the remaining 100 g (3.5 oz) of sugar and continue beating until the mixture is glossy and firm. Mascarpone mixture:
+
+Stir the Mascarpone until smooth, then gently fold it into the egg yolk-sugar mixture. Carefully fold in the egg whites until you have a smooth and airy mixture. Layering:
+
+Briefly dip the ladyfingers into the coffee and place a layer in a baking dish or individual dessert glasses. Spread a layer of the Mascarpone mixture over the ladyfingers. Repeat the process until all the ingredients are used up, finishing with a layer of Mascarpone mixture. Chilling:
+
+Cover the Tiramisu and let it chill in the refrigerator for at least 4 hours, preferably overnight, to allow the flavors to meld. Serving:
+
+Before serving, generously dust the Tiramisu with cocoa powder and sprinkle with dark chocolate shavings, if desired.
+
+#### Tips:
+
+For an alcohol-free version, simply omit the Amaretto or Marsala. You can use espresso instead of regular coffee for a more intense flavor. Enjoy your delicious Tiramisu!
 :::
-
-## Hello and welcome!
-
-![](images/Bildschirmfoto%202024-05-13%20um%2019.49.15.png)
-
-Here, you'll find a collection of delicious recipes curated with love and passion for cooking. Whether you're a seasoned chef or a novice in the kitchen, there's something here for everyone to enjoy.
-
-From comforting classics to innovative culinary creations, these recipes cover a wide range of cuisines and dietary preferences. Whether you're craving something savory, sweet, or somewhere in between, you're sure to find inspiration for your next culinary adventure.
-
-Feel free to explore, experiment, and make these recipes your own. Don't hesitate to reach out with any questions or feedback---I'd love to hear from you!
-
-Happy cooking!
-
-## Cinnamon Rolls
-
-![](images/Bildschirmfoto%202024-05-13%20um%2019.55.34.png)
-
-### Ingredients:
-
-#### For the dough:
-
--   500g all-purpose flour
--   7g (1 packet) instant yeast
--   250ml warm milk
--   75g granulated sugar
--   75g unsalted butter, melted
--   1 teaspoon salt
--   1 large egg
-
-#### For the filling:
-
--   75g unsalted butter, softened
--   100g brown sugar
--   2 tablespoons ground cinnamon
-
-#### For the glaze:
-
--   100g powdered sugar
--   2-3 tablespoons milk
--   1 teaspoon vanilla extract (optional)
-
-#### Instructions:
-
-![](images/Bildschirmfoto%202024-05-13%20um%2019.47.02.png){width="375"}
-
-##### Prepare the Dough:
-
-In a large mixing bowl, combine the warm milk and instant yeast. Let it sit for 5-10 minutes until foamy. Add the melted butter, sugar, salt, and egg to the yeast mixture. Stir until well combined. Gradually add the flour to the mixture, stirring until a dough forms. Turn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic. Place the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size. Prepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.
-
-##### Assemble the Rolls:
-
-Once the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick. Spread the cinnamon-sugar filling evenly over the dough. Starting from one long edge, tightly roll up the dough into a log. Use a sharp knife to cut the log into 12 equal-sized rolls.
-
-##### Bake the Rolls:
-
-Place the rolls in a greased baking dish, leaving a little space between each roll. Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes. Preheat the oven to 180°C (350°F). Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.
-
-##### Make the Glaze:
-
-In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth. Adjust the consistency by adding more milk if needed. Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!
